@@ -9,7 +9,8 @@
 
 
 政策工具分类标准：
-![image](https://github.com/ChaoguangHuo/policy_tools_classification/assets/32315057/7f440186-a1ed-4a25-9d69-985edfa83ee1)
+![image](https://github.com/ChaoguangHuo/policy_tools_classification/assets/32315057/7c47b10d-1c27-44e2-ab49-6db41a348776)
+
 
 本文政策工具分类采用的标准：
 ![image](https://github.com/ChaoguangHuo/policy_tools_classification/assets/32315057/4a59da55-10ae-48aa-9ea9-9acb633b2793)
